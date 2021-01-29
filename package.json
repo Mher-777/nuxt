@@ -1,6 +1,7 @@
 {
   "name": "nuxt-blog",
   "version": "1.0.0",
+  "description": "My awesome nuxt fullstack blog",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -13,5 +14,7 @@
     "element-ui": "^2.15.0",
     "nuxt": "^2.14.12"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxt/types": "^2.14.12"
+  }
 }
